@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wortspiel</string>
+    <string name="app_signin">SignIn</string>
+    <string name="app_signup">SignUp</string>
+    <string name="app_user">Username</string>
+    <string name="app_pass">Password</string>
+</resources>
